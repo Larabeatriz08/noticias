@@ -65,7 +65,7 @@ header nav.mobile {
     transition: 0,7s;
 }
 
-header nav.mobile.abrir {
+header nav.mobile .abrir {
     right: 0;
 }
 
@@ -263,7 +263,7 @@ main {
 }
 
 .terceira-secao h2:hover {
-    color: var(--vermillion)
+    color: var(--vermillion);
 }
 
 }
